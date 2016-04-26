@@ -194,7 +194,11 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\TMA01.cshtml" />
+    <Content Include="Views\Home\TMA02.cshtml" />
+    <Content Include="Views\Home\TMA03.cshtml" />
+    <Content Include="Views\Home\TMA04.cshtml" />
+    <Content Include="Views\Home\EMA.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
